@@ -8,8 +8,6 @@ solutions to preserve our environment from pollution. I am also passionate about
 more accessible for others.
 
 ### 🔭 Current Projects
-- Research Club --> currently developed; provide research resources (teachers, professors, laboratories) and skills to
-students who aspire to be researchers or problem solvers (like engineers)!
 - Tech Challenge | The Tech Interactive --> currently participating in engineering competition where we solve
 an engineering problem within specific criteria (ex. 2025 Tech Challenge - create a device powered by
 gravity)
