@@ -21,9 +21,8 @@ gravity)
 - Languages: Python, Java, C, C++
 
 ### 📫 How to reach me
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: www.linkedin.com/in/hanah-edwin-7a4a5a346
 - Email: hanahbinduedwin@gmail.com
-- Portfolio: [Your website if available]
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=HanahEdwin)
